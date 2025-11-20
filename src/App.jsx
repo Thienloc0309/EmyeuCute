@@ -58,10 +58,10 @@ export default function Page() {
           />
           <img
             className="h-[230px] rounded-lg shadow-lg"
-            src="https://gifdb.com/images/high/cute-Love-bear-roses-ou7zho5oosxnpo6k.gif"
+            src="https://media.gifdb.com/peach-a-nd-goma-cute-kiss-on-cheek-xnvq2rozj3xk6ms5.gif"
           />
           <h1 className="text-4xl md:text-6xl my-4 text-center">
-            Will you be my Valentine?
+            Cho hun miếng iiiiiiiiiiiiiiiiiiiiii
           </h1>
           <div className="flex flex-wrap justify-center gap-2 items-center">
             <button
